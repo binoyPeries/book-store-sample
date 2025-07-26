@@ -31,7 +31,7 @@ An enhanced API for managing a movie collection with advanced features like:
 ### Running Book Store
 
 ```bash
-bal run main.bal
+bal run book-store.bal
 ```
 
 Service will be available at: `http://localhost:8082/book-store`
